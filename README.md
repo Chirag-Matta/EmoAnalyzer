@@ -1,4 +1,4 @@
-##EmoAnalyzer  - ML project for speech based emotion detection
+## EmoAnalyzer  - ML project for speech based emotion detection
 
 Detecting Emotions from Speech: A Machine Learning Project
 This project explores using machine learning to analyze speech and recognize emotions. Our goal was to create a model that could understand the emotions behind everyday conversations, paving the way for more personalized experiences.
